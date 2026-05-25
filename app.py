@@ -161,7 +161,7 @@ st.markdown("""
 <div class="ace-header">
     <div class="ace-logo">♠ACE</div>
     <div class="ace-subtitle">Accumulation Computation Engine</div>
-    <div class="ace-tagline">ACE 3 · H1 · Tight Consolidation Breakout</div>
+    
 </div>
 """, unsafe_allow_html=True)
 
