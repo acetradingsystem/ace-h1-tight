@@ -519,10 +519,10 @@ else:
     </div>""", unsafe_allow_html=True)
 
 # ── Footer ─────────────────────────────────────────────────────────────────────
-st.markdown("""
+st.markdown(f"""
 <div style="text-align:center;margin-top:3rem;padding-top:1rem;border-top:1px solid #1a2a3a">
     <span style="font-family:Space Mono,monospace;font-size:0.6rem;letter-spacing:0.4em;color:#2a4060">
-        NARROW STATE SCANNER - TSX HOURLY TIMEFRAME
+        NARROW STATE SCANNER - {market} {timeframe} TIMEFRAME
     </span>
 </div>
 """, unsafe_allow_html=True)
