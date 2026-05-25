@@ -155,12 +155,7 @@ st.markdown("""
 # ── Rule Box ───────────────────────────────────────────────────────────────────
 st.markdown("""
     <div class="rule-box" style="text-align: center;">
-        <span class="rule-highlight">H1 TIGHT CONSOLIDATION BREAKOUT SCANNER — TSX — HOURLY TIMEFRAME</span><br>
-        Scan at <span class="rule-highlight">10:01am ET</span> after 9:30am candle closes &nbsp;|&nbsp;
-        Entry: <span class="rule-highlight">10:01am open</span> &nbsp;|&nbsp;
-        Exit: <span class="rule-highlight">~3:00pm ET</span><br>
-        MA20 ≈ MA200 within 3% on H1 &nbsp;|&nbsp; Elephant Bar: body larger than 70% of last 20 bars (Oliver Velez)<br>
-        Position +1 (Bull EB) and Position -1 (Bear EB) only &nbsp;|&nbsp; Entry and protection at your discretion
+        <span class="rule-highlight">NARROW STATE SCANNER — TSX — HOURLY TIMEFRAME</span><br>
         </div>
 """, unsafe_allow_html=True)
 
